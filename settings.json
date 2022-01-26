@@ -1,0 +1,15 @@
+{
+    "name": "Bar-knights",
+    "blocks": {
+        "/blockchain/avalanche": true,
+        "/blockchain/avalanche/solidity": true,
+        "/framework/vanilla": true,
+        "/category/asset_value_tracking/core-token": true,
+        "/category/asset_value_tracking/core-token/name": "Bar-knights",
+        "/category/asset_value_tracking/core-token/symbol": "knights",
+        "/category/asset_value_tracking/core-token/decimals": "6",
+        "/category/asset_value_tracking/core-token/supply": "100",
+        "/category/nft/core-custom_nft": true,
+        "/category/nft/core-custom_nft/template": "collectible"
+    }
+}
